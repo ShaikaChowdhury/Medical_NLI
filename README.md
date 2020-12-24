@@ -4,7 +4,7 @@ This repository contains the code for the paper,
 
 Shaika Chowdhury, Philip S. Yu and Yuan Luo. Improving Medical NLI Using Context-Aware Domain Knowledge. Proceedings of the Ninth Joint Conference on Lexical and Computational Semantics (* SEM 2020). 2020.
 
-##USAGE:
+## USAGE:
 
 cd MUSKAN
 
