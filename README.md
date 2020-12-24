@@ -6,8 +6,6 @@ Shaika Chowdhury, Philip S. Yu and Yuan Luo. Improving Medical NLI Using Context
 
 ## USAGE:
 
-cd muskan
-
 cd scripts
 
 cd training
