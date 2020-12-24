@@ -1,0 +1,17 @@
+{
+    "train_data": "mednli_train.pickle",
+    "valid_data": "mednli_valid.pickle",
+
+    "target_dir": "../../data/checkpoints",
+    
+    "hidden_size": 768,
+    "bilstm_size": 384,
+    "dropout": 0.5,
+    "num_classes": 3,
+
+    "epochs": 50,
+    "batch_size": 64,
+    "lr": 0.0005,
+    "patience": 5,
+    "max_gradient_norm": 10.0
+}
